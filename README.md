@@ -2,12 +2,12 @@
 And tool which helps to plan your watch- and read list.
 
 
-Current features:
+#Current features:
 
 • -
 
 
-Future features:
+#Future features:
 
 • An executable program.
 
